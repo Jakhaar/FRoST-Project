@@ -1,6 +1,3 @@
-Hier ist das angepasste README mit den zusätzlichen Schritten zur Installation des `requests` Moduls und dem Ausführen des `get_python_api.py` Skripts:
-
-```markdown
 # ZED Mini Object Detection with Python
 
 Dieses Repository enthält ein Beispielskript zur Objekterkennung mit der ZED Mini Kamera und der Python API von Stereolabs. Die Anleitung beschreibt, wie die Kamera initialisiert wird, wie die Objekterkennung aktiviert und wie erkannte Objekte angezeigt werden.
