@@ -1,0 +1,6 @@
+# Ordner .venv ignorieren
+.venv/
+
+# Dateien ignorieren
+PyOpenGL_accelerate-3.1.6-cp312-cp312-win_amd64.whl
+PyOpenGL-3.1.6-cp312-cp312-win_amd64.whl
