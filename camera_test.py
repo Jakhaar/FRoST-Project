@@ -24,8 +24,8 @@ if zed.grab() == sl.ERROR_CODE.SUCCESS:
     zed.retrieve_image(image, sl.VIEW.LEFT)
     
     # Speichern Sie das Bild als PNG
-    image.write("zed_image.png")
-    print("Bild gespeichert als 'zed_image.png'")
+    image.write(".data/pictures/camera_test.png")
+    print("Bild gespeichert als 'camera_test.png'")
 
 # Schließen Sie die Kamera
 zed.close()
