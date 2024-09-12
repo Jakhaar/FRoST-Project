@@ -3,8 +3,8 @@ import numpy as np
 import cv2
 import pyzed.sl as sl
 import argparse
-import ogl_viewer.viewer as gl
 import cv_viewer.tracking_viewer as cv_viewer
+import ogl_viewer.viewer as gl
 import platform
 from collections import deque
 
